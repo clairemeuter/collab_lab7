@@ -14,7 +14,8 @@ Hi Partner!
 
 oh why hello there!!! Here's a code chunck for you!
 ```{r claire}
-
+2+2
+plot(cars)
 ```
 
 ```{r sarah}
